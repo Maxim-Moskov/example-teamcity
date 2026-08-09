@@ -15,4 +15,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+	public String sayGoodLuck(){
+		return "Good luck, hunter. The night is long, but you are not alone.";
+	}
 }
